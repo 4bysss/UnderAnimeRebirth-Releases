@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/4bysss/UnderAnimeRebirth-Releases/releases/latest/download/underanime.apk",
-  "changelog": "Se corrige el posicionado de la barra de busqueda para que siempre este por encima de encabezado.",
+  "changelog": "Se reduce el intervalo de revision de nuevo capitulo y se añade icono de notificaciones propio.",
   "mandatory": false
 }
