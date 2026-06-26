@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionName": "1.0.3",
   "apkUrl": "https://github.com/4bysss/UnderAnimeRebirth-Releases/releases/latest/download/underanime.apk",
-  "changelog": "Se reduce el intervalo de revision de nuevo capitulo y se añade icono de notificaciones propio.",
+  "changelog": "Cambio de entorno a .ar debido a caida de entorno anterior.",
   "mandatory": false
 }
