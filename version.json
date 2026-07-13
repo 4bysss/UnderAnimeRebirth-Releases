@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
-  "versionName": "1.1.0",
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/4bysss/UnderAnimeRebirth-Releases/releases/latest/download/underanime.apk",
-  "changelog": "Nuevo modo fullscreen inmersivo en el reproductor, ocultando las barras del sistema para una experiencia mas limpia a pantalla completa. Añadido guardado de progreso de reproduccion y opcion para reanudar episodios desde el punto en el que se dejaron.",
+  "changelog": "Nuevo modo fullscreen inmersivo en el reproductor, ocultando las barras del sistema para una experiencia mas limpia a pantalla completa. Añadido guardado de progreso de reproduccion y opcion para reanudar episodios desde el punto en el que se dejaron. + hotfix",
   "mandatory": false
 }
