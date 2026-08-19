@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.3",
+  "versionCode": 9,
+  "versionName": "1.1.4",
   "apkUrl": "https://github.com/4bysss/UnderAnimeRebirth-Releases/releases/latest/download/underanime.apk",
-  "changelog": "Correcciones del marco del video y que no se pierda el progreso al cambiar entre pantalla completa ",
+  "changelog": "HOTFIX: Pantalla completa compatible con bloqueo de rotación e implementado anti suspensión en pantalla completa",
   "mandatory": false
 }
